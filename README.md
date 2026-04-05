@@ -20,7 +20,7 @@ Para el detalle de cada archivo, consulta [`AGENTS.md`](./AGENTS.md).
 
 ## Fuente de los Textos
 
-Todos los documentos provienen del sitio oficial de la Procuraduría General de la República ([pgrweb.go.cr](https://pgrweb.go.cr)) en su versión más reciente, convertidos a Markdown con [`markitdown`](https://github.com/microsoft/markitdown) y normalizados para eliminar caracteres especiales del español.
+Todos los documentos provienen del sitio oficial de la Procuraduría General de la República ([pgrweb.go.cr](https://pgrweb.go.cr)) en su versión más reciente, convertidos a Markdown con [`markitdown`](https://github.com/microsoft/markitdown) y normalizados para eliminar caracteres especiales del español en el nombre de los archivos.
 
 
 
