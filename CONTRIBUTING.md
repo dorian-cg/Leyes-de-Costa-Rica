@@ -16,9 +16,8 @@ Todos los textos legales deben corresponder a su **versión más reciente** y ob
    ```bash
    markitdown archivo.html > Nombre_de_la_Ley.md
    ```
-4. Limpia el archivo resultante:
-   - Elimina caracteres especiales del español: tildes (`á é í ó ú`), eñes (`ñ`), diéresis (`ü`) y espacios no estándar.
-   - Revisa que el texto sea legible y esté completo.
+4. Limpia el nombre del archivo resultante:
+   - Elimina caracteres especiales del español: tildes (`á é í ó ú`), eñes (`ñ`), diéresis (`ü`) y replazar espacios con guión bajo.
 
 ## Agregar un Nuevo Documento
 
