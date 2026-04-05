@@ -1,4 +1,4 @@
-# Leyes de Costa Rica
+# ⚖️ Leyes de Costa Rica 🇨🇷
 
 Repositorio de leyes de Costa Rica en formato Markdown: constitución política, códigos y leyes especiales. Diseñado para facilitar su procesamiento con agentes de inteligencia artificial, búsqueda de texto y análisis automatizado.
 
