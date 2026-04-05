@@ -16,8 +16,6 @@ Todos los textos legales deben corresponder a su **versión más reciente** y ob
    ```bash
    markitdown archivo.html > Nombre_de_la_Ley.md
    ```
-4. Limpia el nombre del archivo resultante:
-   - Elimina caracteres especiales del español: tildes (`á é í ó ú`), eñes (`ñ`), diéresis (`ü`) y replazar espacios con guión bajo.
 
 ## Agregar un Nuevo Documento
 
@@ -27,7 +25,7 @@ Todos los textos legales deben corresponder a su **versión más reciente** y ob
    - `leyes/` — para leyes especiales
    - Crea un nuevo directorio si el documento no encaja en ninguna categoría.
 
-2. **Nombra el archivo** usando guiones bajos en lugar de espacios, siguiendo el patrón:
+2. **Nombra el archivo** usando guiones bajos en lugar de espacios, Elimina caracteres especiales del español: tildes (`á é í ó ú`), eñes (`ñ`), diéresis (`ü`) y replazar espacios con guión bajo. Seguir el siguiente patrón:
    ```
    Nombre_de_la_Ley.md
    ```
